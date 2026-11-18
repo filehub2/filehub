@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "publicUrl": "",
   "apiBaseUrl": "",
-  "tunnelStatus": "stopped",
-  "updatedAt": "2026-11-18T21:56:17.479Z",
-  "message": "FileHub parado"
+  "tunnelStatus": "starting",
+  "updatedAt": "2026-11-18T21:56:19.651Z",
+  "message": "Iniciando FileHub e Cloudflare Tunnel"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "filehub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private shared file manager for a self-hosted Debian server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "start:all": "node tunnel-manager.js", "check": "node --check server.js && node --check tunnel-manager.js" },
+  "engines": { "node": ">=18.0.0" },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+  }
+}

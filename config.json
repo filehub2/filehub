@@ -1,9 +1,9 @@
 {
   "app": "FileHub",
   "version": "1.1.0",
-  "publicUrl": "",
-  "apiBaseUrl": "",
-  "tunnelStatus": "starting",
-  "updatedAt": "2026-11-18T21:56:19.651Z",
-  "message": "Iniciando FileHub e Cloudflare Tunnel"
+  "publicUrl": "https://globe-usually-build-original.trycloudflare.com",
+  "apiBaseUrl": "https://globe-usually-build-original.trycloudflare.com",
+  "tunnelStatus": "online",
+  "updatedAt": "2026-11-18T21:56:29.257Z",
+  "message": "Cloudflare Tunnel conectado"
 }

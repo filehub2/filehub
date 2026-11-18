@@ -4,6 +4,6 @@
   "publicUrl": "",
   "apiBaseUrl": "",
   "tunnelStatus": "starting",
-  "updatedAt": null,
-  "message": "Aguardando endereço do Cloudflare Tunnel"
+  "updatedAt": "2026-11-18T21:47:44.992Z",
+  "message": "Iniciando FileHub e Cloudflare Tunnel"
 }
